@@ -1,6 +1,6 @@
 # Election_Analysis
 ## Election Audit Overview
-The purpose of the project was to complete an audit of a recent Colorado Congressional district election. The audit required me to tabulate county-level election results as well as the candidate vote totals, and finally the winner of the election. To complete this analysis, I created a script in Python to tabulate the election results from a CSV file. The full results of the audit can be found in ![election_analysis](analysis/election_analysis)
+The purpose of the project was to complete an audit of a recent Colorado Congressional district election. The audit required me to tabulate county-level election results as well as the candidate vote totals, and finally the winner of the election. To complete this analysis, I created a script in Python to tabulate the election results from a CSV file. The full results of the audit can be found in ![election_analysis](analysis/election_analysis.txt)
 ## Election Audit Results
 The election audit shows that:
 - There were 369,711 votes cast in the election
